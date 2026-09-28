@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Evropska vojna retorika in prihajajoča kriza"
-date: 2025-01-15
+date: 2026-09-28
 categories: [Politika, Analiza]
 tags: [evropa, vojna, energetska-kriza]
 ---
