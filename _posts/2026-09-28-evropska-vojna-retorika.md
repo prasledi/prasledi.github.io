@@ -1,85 +1,111 @@
 ---
 layout: post
-title: "Evropska vojna retorika in prihajajoča kriza"
+title: "Vojna, gospodarska kriza in strah: Kdo vleče niti v Evropi?"
 date: 2026-09-28
-categories: [Politika, Analiza]
-tags: [evropa, vojna, energetska-kriza]
+categories: [Geopolitika, Evropa]
+tags: [vojna, rusija, gospodarska-kriza, evropa, propaganda, energetika]
 ---
 
-<div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:24px 28px;margin-bottom:32px;">
+## Kazalo {#kazalo}
+
+<div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:24px 28px;margin-bottom:32px;font-family:Arial,sans-serif;">
   <p style="font-size:1.15em;font-weight:700;margin:0 0 16px 0;color:#212529;border-bottom:2px solid #6c757d;padding-bottom:8px;">📋 Kazalo vsebine</p>
   <ol style="margin:0;padding-left:20px;line-height:2;">
-    <li><a href="#vojna-retorika">Evropska vojna retorika</a> — <em>Zakaj zahodni politiki vso pozornost usmerjajo v vojni scenarij.</em></li>
-    <li><a href="#energetska-kriza">Prihajajoča energetska kriza</a> — <em>Pomanjkanje goriva, ki ga javnost ni bila opozorjena.</em></li>
-    <li><a href="#strasenje-in-lazi">Strašenje in propaganda</a> — <em>Vzporednice med covidnim obdobjem in sedanjo vojno propagando.</em></li>
-    <li><a href="#kdo-orchestrira">Kdo orkestrira ta glas?</a> — <em>Vprašanje o tem, kdo stoji za enotnim zahodnim vojnim diskurzom.</em></li>
-    <li><a href="#volilni-odmik">Volilni odmik od establišmenta</a> — <em>Kako ljudje na glasovnicah izražajo nezaupanje do vladajočih elit.</em></li>
-    <li><a href="#nasilje-in-protest">Od protesta k nasilju</a> — <em>Kaj se zgodi, ko volitve in protesti ne prinesejo sprememb.</em></li>
-    <li><a href="#dolzniska-past">Dolžniška past in vojna ponastavitev</a> — <em>Razmišljanja o tem, ali elite vidijo v vojni rešitev za finančni kolaps.</em></li>
-    <li><a href="#upanje-na-zadrzanost">Upanje na zadržanost</a> — <em>Vloga Rusije, Kitajske in koncepta katakona pri preprečevanju kaosa.</em></li>
+    <li><a href="#vojni-histeriji-naproti" style="color:#0d6efd;text-decoration:none;">Evropa v vojni histeriji</a> — <em>Enotno sporočilo oblasti po vsej celini: pripravite se na vojno.</em></li>
+    <li><a href="#gospodarska-resnicnost" style="color:#0d6efd;text-decoration:none;">Gospodarska resničnost za dimno zaveso</a> — <em>Za vojnimi pozivi se skriva huda energetska in ekonomska kriza.</em></li>
+    <li><a href="#zarascanje-strahu" style="color:#0d6efd;text-decoration:none;">Zaraščanje strahu kot politično orodje</a> — <em>Vzporednice s pandemijo covida in manipulacijo javnega mnenja.</em></li>
+    <li><a href="#kdo-orkestrira" style="color:#0d6efd;text-decoration:none;">Kdo orkestira vojno retoriko?</a> — <em>Vprašanje o virih in interesih za usklajenim evropskim vojnim govorom.</em></li>
+    <li><a href="#odziv-ljudstva" style="color:#0d6efd;text-decoration:none;">Kako se bo ljudstvo odzvalo?</a> — <em>Volilni izidi in naraščajoče nezadovoljstvo kažejo na globok prepad med oblastjo in državljani.</em></li>
+    <li><a href="#napetosti-in-nasilje" style="color:#0d6efd;text-decoration:none;">Od protestov do nasilja</a> — <em>Kadar glasovanje in protest ne zalegata, se ljudje obračajo k skrajnim sredstvom.</em></li>
+    <li><a href="#energetska-kriza-2027" style="color:#0d6efd;text-decoration:none;">Energetska kriza do leta 2027</a> — <em>Kronično pomanjkanje dizla ogroža celotno evropsko gospodarstvo.</em></li>
+    <li><a href="#upanje-na-zadrzanost" style="color:#0d6efd;text-decoration:none;">Upanje na zadržanost velikih sil</a> — <em>Ali bosta Rusija in Kitajska odigrali vlogo stabilizatorja v naraščajočem kaosu?</em></li>
   </ol>
 </div>
 
----
+## Evropa v vojni histeriji {#vojni-histeriji-naproti}
 
-## Evropska vojna retorika {#vojna-retorika}
+Po vsej Evropi odmeva enoglasno sporočilo oblasti in vladajočih elit: prihaja vojna z Rusijo. V Veliki Britaniji je vlada uradno pozvala državljane, naj si ustvarijo zaloge vode in konzervirane hrane. Podobna opozorila so se razširila po vseh državah članicah. Na televizijskih zaslonih se pojavljajo ugledne konservativne osebnosti, ki brez zadržkov izjavljajo, da bodo v naslednjih nekaj letih mnogi morali dati življenje za svojo domovino — in da je to preprosto njihova dolžnost.
 
-Po vsej Evropi odmeva usklajen glas: vojna prihaja. Vlade, establishmenti in elite — vse to zbrano govori z enim samim glasom. V Veliki Britaniji je vlada uradno pozvala državljane, naj si ustvarijo zaloge vode in konzervirane hrane v pričakovanju prihodnjega spopada. Enako sporočilo se ponavlja v vseh evropskih državah. Na televizijskih zaslonih se pojavljajo ugledni konservativni komentatorji, ki odkrito trdijo: v naslednjih letih bo vojna gotova, opravljati boste morali svojo dolžnost — in mnogi boste v tej vojni umrli. To je vaša dolžnost. Takšno sporočilo se dobesedno širi prek oglaševalskih kampanj. Vlade objavljajo videoposnetke z ljudmi v uniformah in pozivi, da vsak prispeva svoj del. Vzdušje predvojnega obdobja se namerno ustvarja in goji. Pri tem gre očitno za vnaprej dogovorjeno stališče, usklajeno med državami. Videli smo celo fotografije evropskih tehnokratov na konferenci t. i. osmih o varnostnih vprašanjih, ki so se pojavili v kamuflažnih jaknah — kar je videti bolj smešno kot prepričljivo, a namen je jasen.
+Vse to se aktivno promovira prek oglaševanja in vladnih video vsebin, ki prikazujejo ljudi v uniformah z jasnim sporočilom: »Naredite svojo dolžnost.« Vzdušje pred vojno je izrazito in skrbno negovano. Nekateri evropski tehnokrati so se na varnostnih konferencah celo pojavili v kamuflažnih jaknah — prizor, ki je sicer deloval bolj komično kot prepričljivo, a je kljub temu zgovoren simptom časa.
 
-[⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
-
----
-
-## Prihajajoča energetska kriza {#energetska-kriza}
-
-Za vsem vojnim hrupom se skriva resničen in vse bolj opazen problem: energetska kriza. V Franciji se že vrstijo kolone pred bencinski servisi — med enim in dvajsetimi postajami naj ne bi imelo razpoložljivega goriva. Podobne razmere so se že pojavile na Irskem, kmalu pa se bodo razširile po vsej celini. Oblasti in mediji o tem molčijo. Nobena vlada ni opozorila javnosti, da bi vztrajanje vojnega stanja v regiji in zmanjšana saudska dobava nafte povzročili pomanjkanje, ki bi zahtevalo upravljanje povpraševanja. Nobenega odgovornega opozorila ni bilo. Aviacijski kerozin bo po vsej verjetnosti v prihodnjem četrtletju podvojil ceno. Dizel je kronično primanjkljiv. Če bodo Združene države, kakor je napovedal Trump, uvedle embargo na majhne količine dizla, ki še prihajajo v Evropo, bo kriza primerljiva s pandemijo. In podobno kot takrat bo javnosti povedano: to ni naša krivda — to je Putin. Toda resnica je, da nobena evropska vlada ni naredila prav nič, da bi ljudi ustrezno pripravila na to, kar prihaja.
+Hkrati pa je vsakemu resnejšemu poznavalcu vojaških zadev jasno, da Zahod nima ne ustreznega števila vojakov, ne finančnih sredstev, ne logistike ali oskrbovalnih verig za kakršno koli resno vojaško operacijo.
 
 [⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
 
 ---
 
-## Strašenje in propaganda {#strasenje-in-lazi}
+## Gospodarska resničnost za dimno zaveso {#gospodarska-resnicnost}
 
-Metode, ki jih vidimo danes, niso nove. Med covidnim obdobjem smo bili priča vojnim tovornjakov v Italiji, ki so naj bi prevažali trupla žrtev na kremacijo — posnetek je krožil po vsem svetu in vzbujal grozo. Pozneje se je izkazalo, da so bili tovornjaki prazni, z enim praznim krsto. Šlo je za čisto strašenje. Enako logiko prepoznavamo danes: ko bo gospodarska kriza udarila, bo vladajoča elita za vse okrivila Rusijo in Putina, namesto da bi prevzela odgovornost za lastne napačne odločitve, ki so Evropo pripeljale do te točke. Že zdaj se napoveduje, da bi lahko prišlo do insceniranih incidentov — lažnih zastav z mrtvimi telesi in obtožbami na Rusijo —, s katerimi bi razpihali vojnopodpirajoče razpoloženje. Toda resničnosti ni mogoče popolnoma zastreti: zahod nima niti človeških virov, niti finančnih zmogljivosti, niti logistike za kakršnokoli resno vojaško operacijo.
+Za vsem vojnim hrupom se skriva neprijetna resnica: evropske elite so s svojimi odločitvami pripeljale celino na rob gospodarske katastrofe. V Franciji se že vrstijo kolone pred bencinskimi črpalkami — med eno in dvajsetimi postajami naj bi bile brez goriva. Enako se dogaja na Irskem in drugod po Evropi.
 
-[⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
+Nihče ni bil predhodno opozorjen. Nobena od večjih evropskih medijev ne poroča o bližajoči se gospodarski krizi, čeprav je vsem vpletenim jasno, da cene letalskega goriva v naslednjem četrtletju verjetno podvojijo, dizel pa je kronično primanjkljiv. Če bi Združene države Amerike — kot je nakazal predsednik Trump — prepovedale še tisto skromno količino dizla, ki pride do Evrope, bi se kriza razvila v razsežnosti, primerljive s pandemijo.
 
----
-
-## Kdo orkestrira ta glas? {#kdo-orchestrira}
-
-Ključno vprašanje ostaja brez jasnega odgovora: kdo je tisti, ki usklajuje ta enotni evropski vojni diskurz? Ni naključje, da vse evropske države naenkrat govorijo z enim glasom. Ta usklajenost ne nastane sama od sebe — prihaja iz nekega središča moči, verjetno iz Washingtona. Toda kdo natanko daje ta signal? Kakšni so njihovi interesi? Ali je cilj zares izzivanje vojne z Rusijo, morda celo uničenje Rusije? Odgovorov ni. Vemo pa, da napadi na rusko ozemlje — vključno z letoviškimi območji in plažami ob Črnem morju — niso naključni, temveč nekje v sistemu odobreni. Trump je sam omenil napad na rusko rafinerijo dizla in vprašal Zelenskega, zakaj si ne izbere drugačnih tarč. To razkriva, da je vsaj del tega usklajevanja blagoslovljen na najvišjih ravneh.
+Prav tu se kaže vzorec: namesto da bi oblasti pravočasno in odkrito obvestile javnost o neizogibnih posledicah energetske politike in vojne v regiji, raje usmerjajo pozornost drugam.
 
 [⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
 
 ---
 
-## Volilni odmik od establišmenta {#volilni-odmik}
+## Zaraščanje strahu kot politično orodje {#zarascanje-strahu}
 
-Evropski državljani postopoma dajejo jasno sporočilo na voliščih. V Nemčiji je Alternativa za Nemčijo na zadnjih deželnih volitvah dosegla 38 odstotkov glasov, medtem ko je stranka kanclerja Merza prejela le 4,9 odstotka — niti zakonskega praga petih odstotkov ni dosegla. Podobni premiki potekajo po vsej celini. Toda elite tega sporočila ne sprejmejo. Namesto tega razmišljajo, kako bi stranko AfD pravno izključili iz volitev. Že smo bili priča primeru Romunije, kjer so volitve preprosto razveljavili, dokler niso izbrali »pravega« kandidata za Bruselj. V nasprotju s tem ruske volitve kažejo drugačno sliko: tam se podpora voditelju povečuje, ker državljani prepoznavajo logiko odločitev, ki jih vodstvo sprejema. Na zahodu pa ljudje vse bolj jasno vidijo, da vladajoče politike nimajo nobene smiselne podlage.
+Vzporednice s pandemijo covida so presenetljivo jasne. Takrat so italijanski mediji in oblasti predvajali posnetke vojaških konvojev, za katere so trdili, da prevažajo posmrtne ostanke žrtev covida. Resnica je bila drugačna: tovornjaki so bili prazni, v njih je bila le ena prazna krsta. Šlo je za čisto in preračunano sejanje strahu.
 
-[⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
-
----
-
-## Od protesta k nasilju {#nasilje-in-protest}
-
-Ko volitve ne prinesejo sprememb in ko je protest zatrt s silo, se odpre le ena pot — in ta vodi k nasilju. To ni pesimistična napoved, temveč logična posledica zaprtega sistema. Mladi v Evropi danes ne morejo dobiti zaposlitve. Cene so zunaj njihovega dosega. Kupiti stanovanje je sanje, najemati pa vse težje. Ko izidejo na ulice, jih pričakajo oborožene milicizirane policijske enote, ki razbijajo shode. Takšne primere smo videli v zadnjih dneh v Franciji. Kadar volitve niso mogoče, kadar je protest zatrt, kadar sistem ostaja zaprt in neodziven — tedaj se jeza kopiči. Del te jeze skušajo elite preusmeriti proti Rusiji in Putinu. Toda za večino Evropejcev ta preusmeritev ne deluje. In ko gospodarska stiska postane neiznosna, bo sledilo tisto, kar vedno sledi, ko so vsa vrata zaprta.
+Danes se zdi, da se isti mehanizem ponavlja. Vojni alarm morda ni toliko odraz resnične zunanje grožnje, temveč politično orodje za odvrnitev pozornosti od notranje gospodarske stiske, za katero so odgovorne prav tiste elite, ki zdaj vpijejo »vojna prihaja«. Namesto iskrenega soočanja s posledicami lastnih napačnih odločitev oblasti pokažejo s prstom na Rusijo in Putina.
 
 [⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
 
 ---
 
-## Dolžniška past in vojna ponastavitev {#dolzniska-past}
+## Kdo orkestira vojno retoriko? {#kdo-orkestrira}
 
-Obstaja ena razlaga, ki jo nekateri analitiki in poznavalci resno jemljejo, četudi zveni skrajno: da si nekatere elite zavestno prizadevajo za nekakšno »ponastavitev« po vzoru druge svetovne vojne. Ameriški dolg se bliža 41 bilijonom dolarjev, evropski dolgovi naraščajo, industrijska zmogljivost pada — vsi trendi kažejo navzdol in to ni vzdržno. Med veliko depresijo je bila edina resnična rešitev, ki je vrnila ekonomski zagon, ravno industrializacija za potrebe vojne. Nekateri domnevno trdijo, da bi morda potrebovali »še eno takšno«. Ta ideja je bila doslej zavrnjena kot čisto norost. Toda ob vsem, kar se dogaja, je ni več mogoče kar tako odriniti s strani. Zgodovinska precedenca obstaja — in ravno to je tisto, kar jo dela nevarno resno.
+Ključno vprašanje ostaja brez jasnega odgovora: kdo stoji za tem usklajenim evropskim vojnim govorom? Ni verjetno, da bi vse evropske prestolnice neodvisno in spontano prišle do enakih zaključkov. Nekje v Washingtonu mora obstajati jasen signal — toda od kod prihaja in kateri interesi ga poganjajo?
+
+Ali gre za namerno izzivanje vojne z Rusijo? Za poskus njenega destabiliziranja ali celo uničenja? Tega zaenkrat ni mogoče z gotovostjo trditi. Obstaja pa ena teorija, ki jo nekateri resni analitiki jemljejo resno: da bremena dolga — zlasti v Združenih državah, kjer državni dolg presega 40 bilijonov dolarjev — in izguba industrijske zmogljivosti silita določene elite k razmišljanju o »resetiranju« na način, ki spominja na Drugo svetovno vojno. Takrat je namreč šele vojni napor rešil Ameriko iz brezna Velike depresije.
+
+Kolikor blazno se to sliši — tega scenarija ni mogoče kar tako odmisliti.
 
 [⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
 
 ---
 
-## Upanje na zadržanost {#upanje-na-zadrzanost}
+## Kako se bo ljudstvo odzvalo? {#odziv-ljudstva}
 
-Kljub vsemu obstaja upanje — vsaj toliko. Tako Rusija kot Kitajska razumeta nevarnost eskalacije. Med nedavnim obiskom Moskve je sogovornik analitiku zaupal, da Putin deluje po načelu katakona — starogrški in teološki pojem, ki označuje silo zadržanosti, ki preprečuje, da bi svet zdrsnil v kaos in uničenje. To ni govorica o antikristih ali apokalipsi v verskem smislu — je politična metafora za vlogo tistega, ki drži svet skupaj, ko ga drugi vlečejo narazen. Upati je, da bo nekdo igral to vlogo, ker zahod trenutno igra ravno nasprotno — vlogo razpihovalca. Posebna nevarnost preti, če bo Trump nadaljeval z vojaškim pritiskom na Iran: to bi spodbudilo Teheran k napadom na države Zalivskega sveta, kar bi sprožilo resno globalno krizo. Prihodnost ostaja odprta — a eden od pogojev, da ostane mirna, je, da nekdo obdrži živce in razum, ko drugi izgubljajo oboje.
+Volilni izidi po Evropi že kažejo, kam gre tok. V Nemčiji je stranka Alternativa za Nemčijo (AfD) na zadnjih deželnih volitvah dosegla 38 odstotkov glasov, medtem ko je vladajoča koalicija kanclerja Merza zbrala zgolj 4,9 odstotka — celo pod pragom za vstop v parlament. Podobno se dogaja drugod: ko ljudje dobijo priložnost, glasujejo proti tistim, ki jih vodijo v slepo ulico.
+
+V Rusiji je slika ravno obratna: podpora predsedniku Putinu raste, ker državljani vidijo, da njegova politika ustreza interesom njihove države. Zahodni volivci, nasprotno, čutijo, da jim vladajoče politike ne prinašajo ničesar dobrega — in to se odraža na voliščih.
 
 [⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
+
+---
+
+## Od protestov do nasilja {#napetosti-in-nasilje}
+
+Ko volitve ne prinesejo sprememb — ali ko se zmagovalne stranke preprosto prepovedo, kot so resno razpravljali v primeru AfD, ali ko se volitve kar razveljavijo, kot se je zgodilo v Romuniji — se državljanom zapirajo demokratične poti. Mladi, ki ne morejo najti zaposlitve, si ne morejo privoščiti stanovanja niti ga ne morejo kupiti, ki jih tlačita inflacija in negotovost, nimajo veliko možnosti.
+
+Protesti so vedno bolj surovo zatrjevani z militariziranimi policijskimi enotami — primeri tega so se v zadnjih tednih množili zlasti v Franciji. Ko ne pomaga glasovanje in ne pomaga protest, se neizogibno začne pojavljati nasilje. To ni napoved, temveč žalostna zakonitost zgodovine: ko so vsi ventili zaprli, pritisk poišče drugo pot.
+
+Vsak poskus oblasti, da bi to jezo preusmerila proti Rusiji in Putinu, za večino Evropejcev preprosto ne deluje. Ljudje vedo, kje so pravi vzroki za njihove težave.
+
+[⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
+
+---
+
+## Energetska kriza do leta 2027 {#energetska-kriza-2027}
+
+Strokovnjaki opozarjajo, da bi energetska kriza — zlasti pomanjkanje dizla — lahko trajala skozi vse leto 2027. V Evropi, kjer je dizel hrbtenica prometa, industrije in kmetijstva, bi to pomenilo globoko sistemsko motnjo. Na dizlu delujejo tovornjaki, avtobusi, številni vlaki, traktori in vsa veriga preskrbe s hrano. Brez zadostnih količin goriva se ne ustavijo le avtomobili — ustavi se celotno gospodarstvo.
+
+Tega razsežnega tveganja javnost ni bila opozorjena. Medijska slika ostaja zavajajoča: namesto resnih analiz o preskrbi z energijo in njenem vplivu na vsakdanje življenje prevladuje vojni govor.
+
+[⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
+
+---
+
+## Upanje na zadržanost velikih sil {#upanje-na-zadrzanost}
+
+Kljub mračni sliki obstaja določeno upanje. Tako Rusija kot Kitajska se zavedata nevarnosti eskalacije in — vsaj zaenkrat — delujeta kot sila zadržanosti. Sogovornik omenja ruski pojem »katehon«, ki v teološkem in metafizičnem smislu označuje silo, ki preprečuje popoln kaos in razpad reda. Putin naj bi se po besedah poznavalcev ravnal prav po tem načelu: biti tisti, ki zadrži — ne tisti, ki podžiga.
+
+To upanje bo moralo biti dovolj, saj Zahod trenutno igra ravno nasprotno vlogo. Če bo predsednik Trump resno udaril po Iranu, bo verjetna posledica napad Irana na države Zalivskega sveta — in takrat bo kriza postala zares globalna. Vse kaže, da bomo morali napeto čakati, kako se bodo stvari razvijale.
+
+[⬆️ Nazaj na kazalo](#kazalo){: .back-to-top}
+
+---
