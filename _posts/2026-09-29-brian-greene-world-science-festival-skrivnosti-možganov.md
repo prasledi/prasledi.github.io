@@ -4,6 +4,7 @@ title: "Kako možgani vedo, kje smo: možganski GPS in skrivnost prostora"
 date: 2026-09-29
 categories: [Nevroznanost, Umetna inteligenca]
 tags: [možgani, prostorska navigacija, mrežne celice, hippokampus, Edvard Moser, Alzheimerjeva bolezen, umetna inteligenca]
+image: https://images.unsplash.com/photo-1617791160588-241658ad7ef5?q=80&w=2000&auto=format&fit=crop
 ---
 
 {% include embed/youtube.html id='DB5YEPnyQA8' %}
