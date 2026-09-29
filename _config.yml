@@ -56,7 +56,7 @@ pageviews:
 theme_mode: # pusti prazno = sledi sistemu
 
 cdn:
-avatar: # pot do slike, npr. /assets/img/prasledi.JPG
+avatar: /assets/img/prasledi.JPG
 social_preview_image:
 toc: true
 
