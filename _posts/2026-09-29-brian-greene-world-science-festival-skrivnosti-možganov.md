@@ -6,6 +6,8 @@ categories: [Nevroznanost, Umetna inteligenca]
 tags: [možgani, prostorska navigacija, mrežne celice, hippokampus, Edvard Moser, Alzheimerjeva bolezen, umetna inteligenca]
 ---
 
+{% include embed/youtube.html id='4hGywi_vvpoO97Xm' %}
+
 ## Kazalo {#kazalo}
 
 <div style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:8px;padding:24px 28px;margin-bottom:32px;font-family:Arial,sans-serif;">
