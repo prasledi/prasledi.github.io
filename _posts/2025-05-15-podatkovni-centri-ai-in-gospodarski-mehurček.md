@@ -6,7 +6,7 @@ categories: [Tehnologija, Gospodarstvo]
 tags: [umetna-inteligenca, podatkovni-centri, gospodarski-mehurček, Amerika, energetika]
 ---
 
-{% include figure.html src="https://images.pexels.com/photos/4597280/pexels-photo-4597280.jpeg" alt="Hodnik sodobnega podatkovnega centra s strežniškimi stojali" caption="Sodobni podatkovni centri so hrbtenica umetne inteligence — a po kakšni ceni?" %}
+{% include src="https://images.pexels.com/photos/4597280/pexels-photo-4597280.jpeg" alt="Hodnik sodobnega podatkovnega centra s strežniškimi stojali" caption="Sodobni podatkovni centri so hrbtenica umetne inteligence — a po kakšni ceni?" %}
 
 {% include embed/youtube.html id='???' %}
 
