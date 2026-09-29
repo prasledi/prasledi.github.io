@@ -195,7 +195,7 @@ Toda upor, ki ga Glover opisuje kot najpomembnejšega, je tih in vsakdanji: vož
 
 ## Odpornost in travma posebnih enot {#odpornost-in-travma}
 
-![Odpornost, travma in veteran po bojnih izkušnjah](https://images.unsplash.com/photo-1536661203604-78edf05ef46c?q=80&w=1200&auto=format&fit=crop)
+![Odpornost, travma in veteran po bojnih izkušnjah](https://unsplash.com/photos/OMMtntq69tY/download?force=true)
 
 *Zakaj nekateri veterani uspevajo, medtem ko se drugi borijo — in kaj je resnični izvor travme.*
 
