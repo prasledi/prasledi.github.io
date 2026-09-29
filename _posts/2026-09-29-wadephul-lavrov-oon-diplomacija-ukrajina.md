@@ -4,7 +4,7 @@ title: "Wadephul in Lavrov na OZN: 20 minut brezupne diplomacije in bitka za zam
 date: 2026-09-29
 categories: [Geopolitika, Diplomacija]
 tags: [wadephul, lavrov, oon, ukrajna, Nemcija, rusija, zamrznjeni-zakladi, premirje]
-image: https://images.unsplash.com/photo-1547852647-bb42f7b8d1c2?q=80&w=2000&auto=format&fit=crop
+image: https://images.unsplash.com/photo-1529699211952-734e80c4d42b?q=80&w=2000&auto=format&fit=crop
 ---
 
 {% include embed/youtube.html id='abvpgvIcAy0' %}
