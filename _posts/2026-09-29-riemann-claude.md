@@ -4,6 +4,7 @@ title: "Claude in Riemannova hipoteza: napredek, zmote in prihodnost matematike 
 date: 2026-09-29
 categories: [Matematika, Umetna inteligenca]
 tags: [riemannova-hipoteza, claude, anthropic, teorija-stevil, ui-v-matematiki]
+image: https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2000&auto=format&fit=crop
 ---
 
 {% include embed/youtube.html id='kvLOiTxYSzA' %}
