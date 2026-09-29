@@ -57,6 +57,7 @@ theme_mode: # pusti prazno = sledi sistemu
 
 cdn:
 avatar: /assets/prasledi.jpg
+favicon: /assets/space-dog.svg
 social_preview_image:
 toc: true
 
