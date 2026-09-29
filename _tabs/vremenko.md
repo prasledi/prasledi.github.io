@@ -7,6 +7,6 @@ order: 5
 ---
 
 <iframe 
-  src="/tools/vremenko.html" 
+  src="https://vremenko.pages.dev"
   style="width:100%; height:88vh; border:none; border-radius:8px;">
 </iframe>
