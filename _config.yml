@@ -152,8 +152,7 @@ compress_html:
 exclude:
   - "*.gem"
   - "*.gemspec"
-  - docs
-  - tools
+  - docs  
   - README.md
   - LICENSE
   - purgecss.js
