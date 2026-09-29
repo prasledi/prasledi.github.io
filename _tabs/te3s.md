@@ -8,5 +8,6 @@ order: 6
 
 <iframe 
   src="/tools/te3s"  
-  style="width:100%; height:88vh; border:none; border-radius:8px;">
+  scrolling="yes"
+  style="width:100%; height:75vh; border:none; border-radius:8px;">
 </iframe>
