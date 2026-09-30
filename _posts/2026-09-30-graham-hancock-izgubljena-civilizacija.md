@@ -7,7 +7,7 @@ tags: [graham-hancock, izgubljena-civilizacija, gobekli-tepe, ledena-doba, mlaj�
 image: https://images.pexels.com/photos/31028120/pexels-photo-31028120/free-photo-of-gobekli-tepe-ancient-stone-circle-in-sanliurfa.jpeg?w=2000&auto=compress&cs=tinysrgb
 ---
 
-{% include embed/youtube.html id='NMHiLvirCb0' %}
+{% include embed/youtube.html id='ID_TEMPLATE' %}
 
 ## Kazalo vsebine
 
@@ -34,6 +34,8 @@ Najstarejši anatomsko moderni človeški ostanki izvirajo iz Džebel Iruda v Ma
 
 Hancockovo temeljno ugotovitev bi mogli povzeti takole: če smo bili biološko enaki sebi takrat in danes, potem je 300.000-letna praznina v razvoju civilizacije bodisi nerešena skrivnost bodisi dokaz, da nam o preteklosti manjka ključen poglavje.
 
+[↑ Nazaj na kazalo](#kazalo-vsebine)
+
 ---
 
 ## Göbekli Tepe: Odkritje, ki je spremenilo vse {#gobekli-tepe}
@@ -53,6 +55,8 @@ Ključni poudarki Göbekli Tepeja:
 
 Po Hancockovo je Göbekli Tepe »kapsula časa«, ki je namerno zapečatila astronomsko sporočilo za prihodnje rodove — podobno kot je današnji »Clock of the Long Now« namenjen prihodnjim tisočletjem.
 
+[↑ Nazaj na kazalo](#kazalo-vsebine)
+
 ---
 
 ## Mlajši Dryas: Katastrofa, ki je preoblikovala svet {#mlajsi-dryas}
@@ -64,6 +68,8 @@ Mlajši Dryas (ang. Younger Dryas) je bil obdobje izjemno hitrega ohladitve, ki 
 Posledice so bile katastrofalne za vse oblike življenja: izumrla je megafavna ledene dobe (mamuti, dlakavi nosorogi, sabljasti tigri), izginila je kultura Clovis v Severni Ameriki, gladina morja pa se je najprej dvignila, nato pa se je zaradi taljenja ledenikov ob koncu mlajšega Dryasa zaznalo »meltwater pulse 1B« — izjemen naval taljene vode v svetovne oceane.
 
 Prav po tem globalnem prevratu smo zaznali prve znake tega, kar imenujemo civilizacija. Hancock to ni naključje.
+
+[↑ Nazaj na kazalo](#kazalo-vsebine)
 
 ---
 
@@ -85,6 +91,8 @@ Najverjetnejši krivec je po mnenju zagovornikov hipoteze razpad velikega kometa
 
 Hancock poudarja: »Za moje argumente ni bistvena hipoteza o udarcu. Bistven je mlajši Dryas sam — karkoli ga je povzročilo.«
 
+[↑ Nazaj na kazalo](#kazalo-vsebine)
+
 ---
 
 ## Sfinga in piramide: Astronomski časovni stroj {#sfinga-in-piramide}
@@ -104,6 +112,8 @@ Ob pomladnem enakonoči leta 10.500 pred našim štetjem je Sfinga gledala narav
 
 Egipčani so to prakso sami opisali kot »zep tepi« — »prvi čas«, ko so bogovi hodili po Zemlji. Hancock meni, da so megalitske zgradbe na Gizaki platoju astronomski »spomin« na to davno dobo, ki so ga poznejše generacije ohranile in razvijale.
 
+[↑ Nazaj na kazalo](#kazalo-vsebine)
+
 ---
 
 ## Izgubljena civilizacija: Kje jo iskati? {#izgubljena-civilizacija}
@@ -121,6 +131,8 @@ Kandidatna območja za nadaljnja iskanja:
 - **Amazonski deževni gozd**, kjer se z lidarjem odkrivajo obsežna zemeljska dela in geometrični naselbinski kompleksi.
 - **Poplavljeni kontinentalni šelfi**, ki so bili pred dvigom morske gladine (do 120 metrov) obsežna območja za bivanje.
 
+[↑ Nazaj na kazalo](#kazalo-vsebine)
+
 ---
 
 ## Šamanizem kot izvor civilizacije {#samanizem}
@@ -134,6 +146,8 @@ Najslavnejši primer takšne »znanstvene odkriteljske poti« je iyawaska (ayahu
 Hancock opisuje skupne ikonografske vzorce — geometrijske oblike, teriomorfna bitja (napol žival, napol človek) — ki se pojavljajo tako v jamskih poslikavah iz paleolitika (Lascaux) kot pri sodobnih vizionarjih po vsem svetu, kar prof. David Lewis-Williams pojasnjuje z nevropsihološkim modelom globoko spremenjenih stanj zavesti.
 
 Glede vlade in politike Hancock ne skriva mnenja: »Imel bi zakon, ki bi vsakemu kandidatu za predsednika ali državnega voditelja naložil vsaj deset ali dvanajst sej z iyawasko, preden sploh sme vložiti kandidaturo.«
+
+[↑ Nazaj na kazalo](#kazalo-vsebine)
 
 ---
 
@@ -149,6 +163,8 @@ Hancock je iskreno samokritičen: »V razpravo sem prinesel osebno jezo. Dibblov
 
 Hancock meni, da ima arheologija dragocene metode in da ne bi mogel pisati brez njenega podatkovnega temelja, a jo poziva k: odprtejšemu pogledu na mite in astronomijo, k proučevanju neraziskanih območij ter k zaupanju javnosti, da si sama ustvari mnenje.
 
+[↑ Nazaj na kazalo](#kazalo-vsebine)
+
 ---
 
 ## Potopne ladje, antični navigatorji in kartografija {#navigatorji}
@@ -163,6 +179,8 @@ Eden od osrednjih protiargumentov kritikov je: »Če je obstajala napredna civil
 
 Poleg tega Hancock opozori, da je bilo prečkanje morja med Timor in Avstralijo načrtovana migracija — ne naključni pobeg. Podrobne analize kažejo, da so v Ciper in Avstralijo prišle organizirane skupine, večje od tisoč posameznikov, ki so s seboj prinesli živino. To zahteva večje plovbe in organizacijo na ravni, ki jo klasična archeologija pogosto podcenjuje.
 
+[↑ Nazaj na kazalo](#kazalo-vsebine)
+
 ---
 
 ## Zavest, smrt in reinkarnacija {#zavest-in-smrt}
@@ -174,6 +192,8 @@ Pogovor se sklene z vprašanjem, ki ga Hancock opisuje kot osrednje skrivnost č
 O svoji lastni smrtnosti pravi: »Ne bojim se smrti. Bojim se bolečine in ponižanja starosti. A smrt sama? Zdi se mi, da je začetek naslednje velike pustolovščine. Reinkarnacija se mi zdi povsem smiselna — in ni nujno, da jo zavrne tudi sodobna naravoslovna misel.«
 
 Sklenemo z besedami Charlesa Darwina, ki jih je Lex Fridman ob koncu pogovora izbral za nauk tega razgovora: »Ne preživi najmočnejši med vrstami, niti najinteligentnejši, temveč tisti, ki se najhitreje prilagodi spremembi.«
+
+[↑ Nazaj na kazalo](#kazalo-vsebine)
 
 ---
 
