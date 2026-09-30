@@ -7,7 +7,7 @@ tags: [graham-hancock, izgubljena-civilizacija, gobekli-tepe, ledena-doba, mlaj≈
 image: https://images.pexels.com/photos/31028120/pexels-photo-31028120/free-photo-of-gobekli-tepe-ancient-stone-circle-in-sanliurfa.jpeg?w=2000&auto=compress&cs=tinysrgb
 ---
 
-{% include embed/youtube.html id='ID_TEMPLATE' %}
+{% include embed/youtube.html id='NMHiLvirCb0' %}
 
 ## Kazalo vsebine
 
