@@ -7,7 +7,7 @@ tags: [vikingi, normani, bizanc, lars-brownworth, lex-fridman, srednji-vek]
 image: https://images.unsplash.com/photo-1567108077905-f8a10e69a5a6?q=80&w=2000&auto=format&fit=crop
 ---
 
-{% include embed/youtube.html id='ID_TEMPLATE' %}
+{% include embed/youtube.html id='VUrMvy9neYfhPmlE' %}
 
 ## Kazalo {#kazalo}
 
